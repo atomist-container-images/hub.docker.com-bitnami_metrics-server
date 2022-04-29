@@ -1,12 +1,81 @@
-# Tags: latest, 0.6.1-debian-10-r53, 0.6.1, 0-debian-10, 0
+# Tags: latest, 0.6.1-debian-10-r77, 0.6.1, 0-debian-10, 0
 FROM bitnami/metrics-server:latest
-FROM bitnami/metrics-server:0.6.1-debian-10-r53
+FROM bitnami/metrics-server:0.6.1-debian-10-r77
 FROM bitnami/metrics-server:0.6.1
 FROM bitnami/metrics-server:0-debian-10
 FROM bitnami/metrics-server:0
 
 # Tags: _
 FROM bitnami/metrics-server:_
+
+# Tags: 0.6.1-debian-10-r76
+FROM bitnami/metrics-server:0.6.1-debian-10-r76
+
+# Tags: 0.6.1-debian-10-r75
+FROM bitnami/metrics-server:0.6.1-debian-10-r75
+
+# Tags: 0.6.1-debian-10-r74
+FROM bitnami/metrics-server:0.6.1-debian-10-r74
+
+# Tags: 0.6.1-debian-10-r73
+FROM bitnami/metrics-server:0.6.1-debian-10-r73
+
+# Tags: 0.6.1-debian-10-r72
+FROM bitnami/metrics-server:0.6.1-debian-10-r72
+
+# Tags: 0.6.1-debian-10-r71
+FROM bitnami/metrics-server:0.6.1-debian-10-r71
+
+# Tags: 0.6.1-debian-10-r70
+FROM bitnami/metrics-server:0.6.1-debian-10-r70
+
+# Tags: 0.6.1-debian-10-r68
+FROM bitnami/metrics-server:0.6.1-debian-10-r68
+
+# Tags: 0.6.1-debian-10-r67
+FROM bitnami/metrics-server:0.6.1-debian-10-r67
+
+# Tags: 0.6.1-debian-10-r66
+FROM bitnami/metrics-server:0.6.1-debian-10-r66
+
+# Tags: 0.6.1-debian-10-r65
+FROM bitnami/metrics-server:0.6.1-debian-10-r65
+
+# Tags: 0.6.1-debian-10-r64
+FROM bitnami/metrics-server:0.6.1-debian-10-r64
+
+# Tags: 0.6.1-debian-10-r63
+FROM bitnami/metrics-server:0.6.1-debian-10-r63
+
+# Tags: 0.6.1-debian-10-r62
+FROM bitnami/metrics-server:0.6.1-debian-10-r62
+
+# Tags: 0.6.1-debian-10-r61
+FROM bitnami/metrics-server:0.6.1-debian-10-r61
+
+# Tags: 0.6.1-debian-10-r60
+FROM bitnami/metrics-server:0.6.1-debian-10-r60
+
+# Tags: 0.6.1-debian-10-r59
+FROM bitnami/metrics-server:0.6.1-debian-10-r59
+
+# Tags: 0.6.1-debian-10-r58
+FROM bitnami/metrics-server:0.6.1-debian-10-r58
+
+# Tags: 0.6.1-debian-10-r57
+FROM bitnami/metrics-server:0.6.1-debian-10-r57
+
+# Tags: 0.6.1-debian-10-r56
+FROM bitnami/metrics-server:0.6.1-debian-10-r56
+
+# Tags: 0.6.1-debian-10-r55
+FROM bitnami/metrics-server:0.6.1-debian-10-r55
+
+# Tags: 0.6.1-debian-10-r54
+FROM bitnami/metrics-server:0.6.1-debian-10-r54
+
+# Tags: 0.6.1-debian-10-r53
+FROM bitnami/metrics-server:0.6.1-debian-10-r53
 
 # Tags: 0.6.1-debian-10-r52
 FROM bitnami/metrics-server:0.6.1-debian-10-r52
@@ -25,72 +94,3 @@ FROM bitnami/metrics-server:0.6.1-debian-10-r48
 
 # Tags: 0.6.1-debian-10-r47
 FROM bitnami/metrics-server:0.6.1-debian-10-r47
-
-# Tags: 0.6.1-debian-10-r46
-FROM bitnami/metrics-server:0.6.1-debian-10-r46
-
-# Tags: 0.6.1-debian-10-r45
-FROM bitnami/metrics-server:0.6.1-debian-10-r45
-
-# Tags: 0.6.1-debian-10-r44
-FROM bitnami/metrics-server:0.6.1-debian-10-r44
-
-# Tags: 0.6.1-debian-10-r43
-FROM bitnami/metrics-server:0.6.1-debian-10-r43
-
-# Tags: 0.6.1-debian-10-r42
-FROM bitnami/metrics-server:0.6.1-debian-10-r42
-
-# Tags: 0.6.1-debian-10-r41
-FROM bitnami/metrics-server:0.6.1-debian-10-r41
-
-# Tags: 0.6.1-debian-10-r40
-FROM bitnami/metrics-server:0.6.1-debian-10-r40
-
-# Tags: 0.6.1-debian-10-r39
-FROM bitnami/metrics-server:0.6.1-debian-10-r39
-
-# Tags: 0.6.1-debian-10-r38
-FROM bitnami/metrics-server:0.6.1-debian-10-r38
-
-# Tags: 0.6.1-debian-10-r37
-FROM bitnami/metrics-server:0.6.1-debian-10-r37
-
-# Tags: 0.6.1-debian-10-r36
-FROM bitnami/metrics-server:0.6.1-debian-10-r36
-
-# Tags: 0.6.1-debian-10-r35
-FROM bitnami/metrics-server:0.6.1-debian-10-r35
-
-# Tags: 0.6.1-debian-10-r34
-FROM bitnami/metrics-server:0.6.1-debian-10-r34
-
-# Tags: 0.6.1-debian-10-r33
-FROM bitnami/metrics-server:0.6.1-debian-10-r33
-
-# Tags: 0.6.1-debian-10-r32
-FROM bitnami/metrics-server:0.6.1-debian-10-r32
-
-# Tags: 0.6.1-debian-10-r31
-FROM bitnami/metrics-server:0.6.1-debian-10-r31
-
-# Tags: 0.6.1-debian-10-r30
-FROM bitnami/metrics-server:0.6.1-debian-10-r30
-
-# Tags: 0.6.1-debian-10-r29
-FROM bitnami/metrics-server:0.6.1-debian-10-r29
-
-# Tags: 0.6.1-debian-10-r28
-FROM bitnami/metrics-server:0.6.1-debian-10-r28
-
-# Tags: 0.6.1-debian-10-r27
-FROM bitnami/metrics-server:0.6.1-debian-10-r27
-
-# Tags: 0.6.1-debian-10-r26
-FROM bitnami/metrics-server:0.6.1-debian-10-r26
-
-# Tags: 0.6.1-debian-10-r25
-FROM bitnami/metrics-server:0.6.1-debian-10-r25
-
-# Tags: 0.6.1-debian-10-r24
-FROM bitnami/metrics-server:0.6.1-debian-10-r24
